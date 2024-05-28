@@ -48,3 +48,28 @@ The target words are selected from a hard-coded dictionary of five-letter words.
 To compile the program, run the following command in your terminal:
 ```sh
 gcc wordle.c -o wordle
+
+### Running the Program
+
+After compiling, you can run the program using:
+
+./wordle
+
+Follow the on-screen prompts to play the game.
+
+### Example
+
+Welcome to Wordle!
+Guess 1: slate
+Guess Result: s(late) -> (t)rove
+Guess 2: tread
+Guess Result: (t)(r)ead -> trove
+Congratulations! You guessed the word!
+
+### Acknowledgments
+
+Zakariye Abdilahi
+
+
+
+
