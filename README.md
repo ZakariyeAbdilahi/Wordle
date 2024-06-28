@@ -1,4 +1,4 @@
-# Homework 5: Wordle
+# Wordle Game
 
 ## Overview
 
